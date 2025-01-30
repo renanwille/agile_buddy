@@ -8,3 +8,5 @@ conda activate agile_buddy
 
 # Start the app
 python agile_buddy.py
+
+docker kill ollama

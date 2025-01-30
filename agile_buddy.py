@@ -60,7 +60,7 @@ def get_end_of_the_day_info():
         return
     
     # Setup conversation
-    conversation_log = "Hey! What you did today?"
+    conversation_log = "Hey! What you did today?[Note: type bye or exit to exit]"
     print(conversation_log)
     
     # Get user response
